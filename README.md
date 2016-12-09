@@ -11,7 +11,7 @@ JsPatchDemo
   * 4.require('UIView') 声明 其为oc中的类
   * 5.hot fix 必要性，注意点。
 ###注意点
-提供一种自己实现图片浏览的思路,必须实现三种方法
+算作一个学习笔记吧
 ```js 
 defineClass('JsViewController',{
 	viewDidLoad:function(){
